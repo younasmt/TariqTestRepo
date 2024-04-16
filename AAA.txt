@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+This is change in file.
+sadfdsfdsf    
+=======
+a
+>>>>>>> parent of 5c8e15d (Update AAA.txt)
+
+This is new change.
